@@ -13,9 +13,9 @@ export default withSentryConfig(nextConfig, {
   // For all available options, see:
   // https://www.npmjs.com/package/@sentry/webpack-plugin#options
 
-  org: "enra-doo-jn",
+  org: "ai-resonance-app",
 
-  project: "resonance-app",
+  project: "ai-resonance-app",
 
   // Only print logs for uploading source maps in CI
   silent: !process.env.CI,

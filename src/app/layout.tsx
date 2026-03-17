@@ -18,7 +18,7 @@ const geistMono = Geist_Mono({
 
 export const metadata: Metadata = {
   title: {
-    default: "Resonance",
+    default: "AI-Resonance",
     template: "%s | Resonance"
   },
   description: "AI-powered text-to-speech and voice cloning platform",
